@@ -37,7 +37,6 @@ const StartGameScreen = props => {
     };
 
     let confirmedOutput;
-
     if (confirmed) {
         confirmedOutput = 
             <Card style={{marginTop: 20}}>
